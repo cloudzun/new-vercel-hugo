@@ -1,0 +1,3 @@
+baseURL = 'https://new-vercel-hugo.vercel.app'
+languageCode = 'en-us'
+title = 'New Vercel Hugo Site'
