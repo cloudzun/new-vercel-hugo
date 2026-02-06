@@ -1,0 +1,20 @@
+{
+  "name": "new-vercel-hugo",
+  "version": "1.0.0",
+  "description": "A fresh Hugo site for Vercel deployment",
+  "scripts": {
+    "dev": "hugo server -D",
+    "build": "hugo --minify",
+    "preview": "hugo server --buildDrafts --buildFuture"
+  },
+  "keywords": [
+    "hugo",
+    "vercel",
+    "static-site"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "hugo-bin": "^0.134.1"
+  }
+}
